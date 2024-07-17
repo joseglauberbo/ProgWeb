@@ -1,8 +1,8 @@
-## Apresentação da Disciplina: Programação Web
+# Apresentação da Disciplina: Programação Web
 
 Bem-vindos à disciplina de Programação Web! Esta disciplina tem como objetivo proporcionar uma base sólida nos principais conceitos e práticas do desenvolvimento web moderno backend, capacitando os alunos a criar, manter e evoluir aplicações web utilizando tecnologias amplamente adotadas na indústria. A seguir, apresentamos a ementa da disciplina e os principais tópicos que serão abordados.
 
-# Para facilitar a comunicação e promover a interação entre os alunos e o professor, utilizaremos o Discord como plataforma principal. Juntem-se ao nosso servidor através do seguinte link: https://discord.gg/rN239AfU.
+### Para facilitar a comunicação e promover a interação entre os alunos e o professor, utilizaremos o Discord como plataforma principal. Juntem-se ao nosso servidor através do seguinte link: https://discord.gg/rN239AfU.
 
 Espero que este curso seja uma experiência enriquecedora e que todos possam desenvolver habilidades essenciais para o mercado de trabalho na área de desenvolvimento web.
 
