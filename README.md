@@ -7,63 +7,25 @@ Bem-vindos à disciplina de Programação Web! Esta disciplina tem como objetivo
 Espero que este curso seja uma experiência enriquecedora e que todos possam desenvolver habilidades essenciais para o mercado de trabalho na área de desenvolvimento web.
 
 ## Ementa 
-Aula introdutória à disciplina
-    Apresentação do curso, objetivos, metodologia e avaliação.
-    Discussão sobre a importância do desenvolvimento web e as habilidades esperadas.
 
-Introdução à HTML, HTTP e JS. Javascript, Node.js e Express
-    Fundamentos de HTML e HTTP.
-    Introdução ao JavaScript e suas aplicações no desenvolvimento web.
-    Visão geral do Node.js e Express para criação de servidores web.
+| Tópico | Conteúdos | Arquivos Utilizados |
+|--------|-----------|---------------------|
+| Aula introdutória à disciplina | - Apresentação do curso, objetivos, metodologia e avaliação.<br>- Discussão sobre a importância do desenvolvimento web e as habilidades esperadas. | [Link para Arquivo](#) |
+| Introdução à HTML, HTTP e JS. Javascript, Node.js e Express | - Fundamentos de HTML e HTTP.<br>- Introdução ao JavaScript e suas aplicações no desenvolvimento web.<br>- Visão geral do Node.js e Express para criação de servidores web. | [Link para Arquivo](#) |
+| Javascript x Typescript e Introdução à API RESTful | - Comparação entre JavaScript e TypeScript.<br>- Introdução aos conceitos e implementação de APIs RESTful. | [Link para Arquivo](#) |
+| Introdução à arquitetura em camadas | - Conceitos básicos de arquitetura em camadas.<br>- Benefícios e aplicação de uma arquitetura organizada. | [Link para Arquivo](#) |
+| Aplicação prática da arquitetura em camadas | - Implementação de uma aplicação prática utilizando arquitetura em camadas.<br>- Exercícios práticos para fixação dos conceitos. | [Link para Arquivo](#) |
+| Desenvolvimento de uma API RESTFul com Node.js e Express | - Desenvolvimento de uma API RESTful completa utilizando Node.js e Express.<br>- Integração com banco de dados e tratamento de rotas. | [Link para Arquivo](#) |
+| Funcionalidades avançadas e segurança em APIs RESTful | - Implementação de funcionalidades avançadas em APIs RESTful.<br>- Boas práticas de segurança para proteger APIs e dados dos usuários. | [Link para Arquivo](#) |
+| Testes e deploy | - Técnicas de testes para garantir a qualidade do código.<br>- Processos de deploy para colocar aplicações em produção. | [Link para Arquivo](#) |
+| Monitoramento, manutenção e boas práticas APIs | - Ferramentas e técnicas de monitoramento de APIs.<br>- Práticas de manutenção e otimização de APIs em produção. | [Link para Arquivo](#) |
+| Introdução ao versionamento de código | - Conceitos fundamentais de versionamento de código.<br>- Introdução ao Git e sua importância no desenvolvimento colaborativo. | [Link para Arquivo](#) |
+| Git avançado | - Comandos avançados e práticas recomendadas no uso do Git.<br>- Resolução de conflitos e gerenciamento de branches. | [Link para Arquivo](#) |
+| Frameworks web frontend | - Introdução aos principais frameworks web (React, Angular, Vue).<br>- Comparação e escolha do framework mais adequado para diferentes projetos. | [Link para Arquivo](#) |
+| Frameworks web frontend II | - Aplicação prática de um framework web.<br>- Desenvolvimento de uma pequena aplicação utilizando o framework escolhido. | [Link para Arquivo](#) |
+| Acompanhamento projeto | - Orientação e acompanhamento dos projetos dos alunos.<br>- Revisão de código e feedback individual.<br>- Preparação para a apresentação final dos projetos. | [Link para Arquivo](#) |
+| Acompanhamento projeto | - Continuação do acompanhamento dos projetos dos alunos.<br>- Revisão de código e feedback individual.<br>- Preparação para a apresentação final dos projetos. | [Link para Arquivo](#) |
 
-Javascript x Typescript e Introdução à API RESTful
-    Comparação entre JavaScript e TypeScript.
-    Introdução aos conceitos e implementação de APIs RESTful.
-
-Introdução à arquitetura em camadas
-    Conceitos básicos de arquitetura em camadas.
-    Benefícios e aplicação de uma arquitetura organizada.
-
-Aplicação prática da arquitetura em camadas
-    Implementação de uma aplicação prática utilizando arquitetura em camadas.
-    Exercícios práticos para fixação dos conceitos.
-
-Desenvolvimento de uma API RESTFul com Node.js e Express
-    Desenvolvimento de uma API RESTful completa utilizando Node.js e Express.
-    Integração com banco de dados e tratamento de rotas.
-
-Funcionalidades avançadas e segurança em APIs RESTful
-    Implementação de funcionalidades avançadas em APIs RESTful.
-    Boas práticas de segurança para proteger APIs e dados dos usuários.
-
-Testes e deploy
-    Técnicas de testes para garantir a qualidade do código.
-    Processos de deploy para colocar aplicações em produção.
-
-Monitoramento, manutenção e boas práticas APIs
-    Ferramentas e técnicas de monitoramento de APIs.
-    Práticas de manutenção e otimização de APIs em produção.
-
-Introdução ao versionamento de código
-    Conceitos fundamentais de versionamento de código.
-    Introdução ao Git e sua importância no desenvolvimento colaborativo.
-
-Git avançado
-    Comandos avançados e práticas recomendadas no uso do Git.
-    Resolução de conflitos e gerenciamento de branches.
-
-Frameworks web frontend
-    Introdução aos principais frameworks web (React, Angular, Vue).
-    Comparação e escolha do framework mais adequado para diferentes projetos.
-
-Frameworks web frontend II
-    Aplicação prática de um framework web.
-    Desenvolvimento de uma pequena aplicação utilizando o framework escolhido.
-
-Acompanhamento projeto
-    Orientação e acompanhamento dos projetos dos alunos.
-    Revisão de código e feedback individual.
-    Preparação para a apresentação final dos projetos.
 
 ## Laboratórios práticos
 LAB 01 - https://docs.google.com/document/d/19z913LVtDRj6j5_ehT3MiPNx3TUikRAtIKuZfYlE_qo/edit?usp=sharing 
