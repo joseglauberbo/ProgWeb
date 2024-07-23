@@ -10,7 +10,7 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 
 | Tópico | Conteúdos | Arquivos Utilizados |
 |--------|-----------|---------------------|
-| Aula introdutória à disciplina | - Apresentação do curso, objetivos, metodologia e avaliação.<br>- Discussão sobre a importância do desenvolvimento web e as habilidades esperadas. | [Aula 1 - Introdução à disciplina](https://docs.google.com/presentation/d/1tnOyp5cElqS_h4ISNW6y12b_3h77fBpOuUqAB7iD1OI/edit?usp=sharing)(#) |
+| Aula introdutória à disciplina | - Apresentação do curso, objetivos, metodologia e avaliação.<br>- Discussão sobre a importância do desenvolvimento web e as habilidades esperadas. | [Aula 1 - Introdução à disciplina](/aulas/Aula 1 - Aula introdutória.pdf) |
 | Introdução à HTML, HTTP e JS. Javascript, Node.js e Express | - Fundamentos de HTML e HTTP.<br>- Introdução ao JavaScript e suas aplicações no desenvolvimento web.<br>- Visão geral do Node.js e Express para criação de servidores web. | [](#) |
 | Javascript x Typescript e Introdução à API RESTful | - Comparação entre JavaScript e TypeScript.<br>- Introdução aos conceitos e implementação de APIs RESTful. | [](#) |
 | Introdução à arquitetura em camadas | - Conceitos básicos de arquitetura em camadas.<br>- Benefícios e aplicação de uma arquitetura organizada. | [](#) |
