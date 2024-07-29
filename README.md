@@ -37,3 +37,6 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 
 Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2iv929Jx3KIQ0/edit?usp=sharing
 Requisitos:  
+
+
+Forms aula 7 - https://forms.gle/9XnVMh4WAeBhBsi26
