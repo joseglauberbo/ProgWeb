@@ -40,3 +40,4 @@ Requisitos:
 
 
 Forms aula 7 - https://forms.gle/9XnVMh4WAeBhBsi26
+https://gxucrz8hbus.typeform.com/to/zHBdYG9J
