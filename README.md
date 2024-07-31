@@ -32,6 +32,7 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 |-------------|------|----------------|-----------------|
 | LAB 01 | [Link para LAB 01](https://docs.google.com/document/d/19z913LVtDRj6j5_ehT3MiPNx3TUikRAtIKuZfYlE_qo/edit?usp=sharing) |  [10/07/2024](#) | [14/07/2024](#) |
 | LAB 02 | [Link para LAB 02](https://docs.google.com/document/d/1iGzrjanD7kAY5CFO5vAxjOwqLCCrUxEHW680KyzZZ6Y/edit?usp=sharing) | [17/07/2024](#) | [21/07/2024](#) |
+| LAB 03 | [Link para LAB 03](https://docs.google.com/document/d/1vbqR1Z6dQWHe3Nd4qU5yIFdWyOJrjZCJfL4_mIvSjOk/edit?usp=sharing) | [31/07/2024](#) | [02/08/2024](#) |
 
 ## Projeto
 
