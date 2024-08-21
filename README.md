@@ -56,4 +56,6 @@ Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2
 | 09/10/2024  | Acompanhamento 6      |
 | 11/10/2024  | Entrega Final         |
 
+## Planilha de notas
 
+https://docs.google.com/spreadsheets/d/1CucQqmogHnzAcRHCoJBrMWySqPb3EkPf/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true
