@@ -36,6 +36,9 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 
 ## Projeto
 
+Formulário de subsmissão do projeto: https://forms.gle/PeN9k7dng5r3isDe6
+Documento base: https://docs.google.com/document/d/1-m0HgvBRo7eKhkSR6MSCbileJ2tGVlyfI_crL8AwNSY/edit?usp=sharing 
+
 Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2iv929Jx3KIQ0/edit?usp=sharing
 
 
