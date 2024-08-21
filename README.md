@@ -42,4 +42,18 @@ Documento base: https://docs.google.com/document/d/1-m0HgvBRo7eKhkSR6MSCbileJ2tG
 
 Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2iv929Jx3KIQ0/edit?usp=sharing
 
+## CRONOGRAMA PROJETO
+
+| Data        | Entrega/Acompanhamento|
+|-------------|-----------------------|
+| 24/07/2024  | Acompanhamento 1      |
+| 07/08/2024  | Acompanhamento 2      |
+| 23/08/2024  | Entrega 1             |
+| 04/09/2024  | Acompanhamento 3      |
+| 11/09/2024  | Acompanhamento 4      |
+| 20/09/2024  | Entrega 2             |
+| 02/10/2024  | Acompanhamento 5      |
+| 09/10/2024  | Acompanhamento 6      |
+| 11/10/2024  | Entrega Final         |
+
 
