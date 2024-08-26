@@ -16,7 +16,7 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 | Introdução à arquitetura em camadas | - Conceitos básicos de arquitetura em camadas.<br>- Benefícios e aplicação de uma arquitetura organizada. | [Aula - Arquitetura de Software](aulas/Aula6.pdf)|
 | Definição de requisitos - API | Levantamento de requisitos do software - <br>- Construindo arquitetura de software. | [Aula - Definição de requisitos API](aulas/Aula7.pdf) |
 | Padrões arquiteturais - Model-View-Controller e outros | - Desenvolvimento da API com base no MVC e outros padrões de projeto.<br>- Controllers, services,repositories e bd. | [Aula - Padrões arquiteturais](aulas/Aula8.pdf) |
-| Funcionalidades avançadas e segurança em APIs RESTful | - Implementação de funcionalidades avançadas em APIs RESTful.<br>- Boas práticas de segurança para proteger APIs e dados dos usuários. | [](#) |Aula
+| Funcionalidades avançadas e segurança em APIs RESTful | - Implementação de funcionalidades avançadas em APIs RESTful.<br>- Boas práticas de segurança para proteger APIs e dados dos usuários. | [Aula - Autenticação e Autorização](aulas/Aula9.pdf) |Aula
 | Testes e deploy | - Técnicas de testes para garantir a qualidade do código.<br>- Processos de deploy para colocar aplicações em produção. | [](#) |
 | Monitoramento, manutenção e boas práticas APIs | - Ferramentas e técnicas de monitoramento de APIs.<br>- Práticas de manutenção e otimização de APIs em produção. | [](#) |
 | Introdução ao versionamento de código | - Conceitos fundamentais de versionamento de código.<br>- Introdução ao Git e sua importância no desenvolvimento colaborativo. | [](#) |
