@@ -17,7 +17,7 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 | Definição de requisitos - API | Levantamento de requisitos do software - <br>- Construindo arquitetura de software. | [Aula - Definição de requisitos API](aulas/Aula7.pdf) |
 | Padrões arquiteturais - Model-View-Controller e outros | - Desenvolvimento da API com base no MVC e outros padrões de projeto.<br>- Controllers, services,repositories e bd. | [Aula - Padrões arquiteturais](aulas/Aula8.pdf) |
 | Funcionalidades avançadas e boas práticas APIsRESTful | - Implementação de funcionalidades avançadas em APIs RESTful.<br>- Boas práticas de segurança para proteger APIs e dados dos usuários. | [Aula - Funcionalidades avançadas e boas práticas na API](aulas/Aula9.pdf) |Aula
-| Testes de backend | - Técnicas de testes para garantir a qualidade do código.<br> | [Aula - Testes de backend](aulas/Aula10.pdf)(#) |
+| Testes de backend | - Técnicas de testes para garantir a qualidade do código.<br> | [Aula - Testes de backend](aulas/Aula10.pdf) |
 | Frameworks web frontend | - Introdução aos principais frameworks web (React, Angular, Vue).<br>- Comparação e escolha do framework mais adequado para diferentes projetos. | [](#) |
 | Frameworks web frontend II | - Aplicação prática de um framework web.<br>- Desenvolvimento de uma pequena aplicação utilizando o framework escolhido. | [](#) |
 | Introdução ao versionamento de código | - Conceitos fundamentais de versionamento de código.<br>- Introdução ao Git e sua importância no desenvolvimento colaborativo. | [](#) |
