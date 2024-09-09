@@ -57,3 +57,7 @@ Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2
 ## Planilha de notas
 
 https://docs.google.com/spreadsheets/d/1CucQqmogHnzAcRHCoJBrMWySqPb3EkPf/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true
+
+## Links forms
+
+link do formulário antes da aula: https://forms.gle/gZskHaSd9NHjEuvh6
