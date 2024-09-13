@@ -18,7 +18,7 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 | Padrões arquiteturais - Model-View-Controller e outros | - Desenvolvimento da API com base no MVC e outros padrões de projeto.<br>- Controllers, services,repositories e bd. | [Aula - Padrões arquiteturais](aulas/Aula8.pdf) |
 | Funcionalidades avançadas e boas práticas APIsRESTful | - Implementação de funcionalidades avançadas em APIs RESTful.<br>- Boas práticas de segurança para proteger APIs e dados dos usuários. | [Aula - Funcionalidades avançadas e boas práticas na API](aulas/Aula9.pdf) |Aula
 | Testes de backend | - Técnicas de testes para garantir a qualidade do código.<br> | [Aula - Testes de backend](aulas/Aula10.pdf) |
-| Frameworks web frontend | - Introdução aos principais frameworks web (React, Angular, Vue).<br>- Comparação e escolha do framework mais adequado para diferentes projetos. | [](#) |
+| Frameworks web frontend | - Introdução aos principais frameworks web (React, Angular, Vue).<br>- Comparação e escolha do framework mais adequado para diferentes projetos. | [Aula - Testes de backend](aulas/Aula11.pdf)(#) |
 | Frameworks web frontend II | - Aplicação prática de um framework web.<br>- Desenvolvimento de uma pequena aplicação utilizando o framework escolhido. | [](#) |
 | Introdução ao versionamento de código | - Conceitos fundamentais de versionamento de código.<br>- Introdução ao Git e sua importância no desenvolvimento colaborativo. | [](#) |
 | Acompanhamento projeto | - Orientação e acompanhamento dos projetos dos alunos.<br>- Revisão de código e feedback individual.<br>- Preparação para a apresentação final dos projetos. | [](#) |
@@ -57,8 +57,3 @@ Descrição: https://docs.google.com/document/d/1S4f4rd0-ZUjj5JXenJveCN0bLL1a8M2
 ## Planilha de notas
 
 https://docs.google.com/spreadsheets/d/1CucQqmogHnzAcRHCoJBrMWySqPb3EkPf/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true
-
-## Links forms
-
-link do formulário antes da aula: https://forms.gle/gZskHaSd9NHjEuvh6
-link do formulario depois da aula: https://forms.gle/QqA359UEwnFcm79i6
