@@ -19,8 +19,7 @@ Espero que este curso seja uma experiência enriquecedora e que todos possam des
 | Funcionalidades avançadas e boas práticas APIsRESTful | - Implementação de funcionalidades avançadas em APIs RESTful.<br>- Boas práticas de segurança para proteger APIs e dados dos usuários. | [Aula - Funcionalidades avançadas e boas práticas na API](aulas/Aula9.pdf) |Aula
 | Testes de backend | - Técnicas de testes para garantir a qualidade do código.<br> | [Aula - Testes de backend](aulas/Aula10.pdf) |
 | Frameworks web frontend | - Introdução aos principais frameworks web (React, Angular, Vue).<br>- Comparação e escolha do framework mais adequado para diferentes projetos. | [Aula - Frameworks web frontend](aulas/Aula11.pdf). |
-| Frameworks web frontend II | - Aplicação prática de um framework web.<br>- Desenvolvimento de uma pequena aplicação utilizando o framework escolhido. | [](#) |
-| Introdução ao versionamento de código | - Conceitos fundamentais de versionamento de código.<br>- Introdução ao Git e sua importância no desenvolvimento colaborativo. | [](#) |
+| Frameworks web frontend II | - Aplicação prática de um framework web.<br>- Identificação de componentes em desenvolvimento frontend. | [](#) |
 | Acompanhamento projeto | - Orientação e acompanhamento dos projetos dos alunos.<br>- Revisão de código e feedback individual.<br>- Preparação para a apresentação final dos projetos. | [](#) |
 | Acompanhamento projeto | - Continuação do acompanhamento dos projetos dos alunos.<br>- Revisão de código e feedback individual.<br>- Preparação para a apresentação final dos projetos. | [](#) |
 
